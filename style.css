@@ -4,8 +4,8 @@
   --line: #dde3ec;
   --surface: #f5f7fb;
   --card: #ffffff;
-  --brand: #1f5aa6;
-  --brand-dark: #17447e;
+  --brand: #500000;
+  --brand-dark: #3c0000;
   --max: 1100px;
 }
 
@@ -136,7 +136,7 @@ h3 {
   background: #ffffff;
 }
 
-.secondary:hover { background: #edf4ff; }
+.secondary:hover { background: #f5eaea; }
 
 .profile-card {
   display: grid;
@@ -144,7 +144,7 @@ h3 {
   min-height: 245px;
   border: 1px solid var(--line);
   border-radius: 1rem;
-  background: linear-gradient(145deg, #e7eef9, #f8fbff);
+  background: linear-gradient(145deg, #f0e3e3, #fcf8f8);
   text-align: center;
   box-shadow: 0 12px 32px rgba(23, 32, 51, 0.07);
 }
